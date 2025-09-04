@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Anthony  
 
-<!--
-**AnthonyH-783/AnthonyH-783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science graduate (University of Alberta)  
+💻 Freelance **LLM code reviewer/trainer** @ DataAnnotation  
+📱 Former **Android Developer Intern** @ Wolsey-Tech  
+🌐 Building projects in **MERN stack** and **C++**  
+🇨🇦 Based in Canada, pursuing a career in software engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On  
+- 🌱 Full-stack projects (Node.js, Express, React, MongoDB)  
+- 🔬 C++ projects (route optimization, ray tracing)  
+- 📚 Studying **system design & design patterns**  
+- 📝 Documenting projects with GitHub + blog posts  
+
+---
+
+
