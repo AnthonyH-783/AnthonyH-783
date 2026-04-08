@@ -1,19 +1,15 @@
-# 👋 Hi, I’m Anthony  
+# 👋 Hi, I'm Anthony  
+🎓 Computer Science graduate (University of Alberta)  
 
-🎓 Recent Computer Science graduate (University of Alberta)  
-💻 Freelance LLM code reviewer/trainer @ DataAnnotation  
-📱 Former Android Developer Intern @ Wolsey-Tech  
-🌐 Building projects in **MERN stack** and **C++**  
-🇨🇦 Based in Canada, pursuing a career in software engineering  
+💻 LLM code reviewer @ DataAnnotation
 
----
-
-## 🚀 What I’m Working On  
-- 🌱 Full-stack projects (Node.js, Express, React, MongoDB)  
-- 🔬 C++ projects (route optimization, ray tracing)  
-- 📚 Studying system design & design patterns
-- 📝 Documenting projects with GitHub + blog posts  
+🌐 Building projects in **fullstack TypeScript/JavaScript** and **.NET**  
 
 ---
 
-
+## 🚀 What I'm Working On  
+- 🌱 Full-stack projects (React, Node.js, Express, TypeScript — frontend to API layer)  
+- ⚙️ Backend services with **.NET (C#)** — REST API
+- ☁️ Deploying and architecting on **Microsoft Azure** (App Services, Functions, Azure SQL)  
+- 📚 Studying system design, design patterns, and cloud architecture  
+- 📝 Documenting projects with GitHub + blog posts
